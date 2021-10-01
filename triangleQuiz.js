@@ -1,6 +1,6 @@
 const quizForm= document.querySelector(".quiz_form");
 const answerBtn= document.querySelector("#submit_answer_btn");
-const output1= document.querySelector("output");
+const output1= document.querySelector("#output");
 
 const correctAnswers = ["90","Right Angled Triangle"];
 
