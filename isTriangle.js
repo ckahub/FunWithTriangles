@@ -20,7 +20,9 @@ function isTriangle()
     else
     {
         output1.innerText="oh! oh! the angles don't form triangle";
+
     }
+    
 }
 
 
